@@ -83,43 +83,6 @@ I specialize in **Spring Boot**, **Microservices**, **AWS**, and **DevOps automa
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=flat)
 
 ---
-
-### 💼 Experience
-
-#### 🏢 Capgemini India — *Senior Software Engineer*  
-🗓️ **Oct 2021 – Present** | Hyderabad, India
-
-- Developed secure, scalable **REST APIs** and **microservices** for insurance and finance platforms using Spring Boot and Java 8.  
-- Migrated **monolithic systems to containerized microservices**, improving scalability and performance.  
-- Integrated **JWT authentication** and Spring Security for secure role-based access.  
-- Automated deployments using Docker, Kubernetes, and GitLab CI/CD — reducing deployment time by **40%**.  
-- Improved API response time by 25% via caching and database optimizations.  
-- Contributed to **ROSA migration** on AWS OpenShift to enhance cost and performance.
-
----
-
-### 🏆 Achievements
-- 🥇 Migrated 80% of legacy monolithic modules to Kubernetes microservices.  
-- 🧰 Achieved **90%+ test coverage** for core modules.  
-- ⚡ Optimized deployments with CI/CD pipelines and containerization.  
-- 📊 Improved response time and reliability of high-traffic APIs.
-
----
-
-### 📚 Education
-🎓 **Bachelor of Technology in Computer Science**  
-Driems Engineering College, Odisha, India  
-*CGPA: 8.52 (2017 – 2021)*
-
----
-
-### 📜 Certifications
-- 🏅 **AWS Associate Cloud Developer** – AWS (Sep 2022)  
-- 🏅 **Google Associate Cloud Developer** – Google (Aug 2022)  
-- 🏅 **Ocean Java Developer** – Capgemini (May 2023)  
-
----
-
 ### 📈 GitHub Stats
 ![Purna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Purna-14&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purna-14&layout=compact&theme=tokyonight)
