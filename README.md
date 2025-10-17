@@ -16,7 +16,9 @@
 <p align="center">
   <a href="mailto:purnachandram145@gmail.com"><img src="https://img.shields.io/badge/Email-purnachandram145%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/purnachandramuduli"><img src="https://img.shields.io/badge/GitHub-purnachandramuduli-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/purna14/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 <!-- ✨ Optional line separator -->
