@@ -15,7 +15,7 @@
 <!-- 🔗 Social badges -->
 <p align="center">
   <a href="mailto:purnachandram145@gmail.com"><img src="https://img.shields.io/badge/Email-purnachandram145%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/purnachandramuduli"><img src="https://img.shields.io/badge/GitHub-purnachandramuduli-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/purnachandramuduli"><img src="https://img.shields.io/badge/GitHub-Purna-14-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/purna14/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -122,8 +122,8 @@ Driems Engineering College, Odisha, India
 
 ### 📈 GitHub Stats
 ![Purna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Purna-14&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purnachandramuduli&layout=compact&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=purnachandramuduli&color=blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purna-14&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=Purna-14&color=blue)
 
 ---
 
@@ -131,7 +131,7 @@ Driems Engineering College, Odisha, India
 📍 Hyderabad, India  
 📧 [purnachandram145@gmail.com](mailto:purnachandram145@gmail.com)  
 🔗 [LinkedIn](#) | [GitHub](https://github.com/purnachandramuduli)
-![Profile Views](https://komarev.com/ghpvc/?username=rohanpramanik&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Purna-14&color=blue)
 ---
 
 ⭐ *“Clean code, scalable systems, and meaningful impact — that’s what I build for.”*
